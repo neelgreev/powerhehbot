@@ -1,1 +1,2 @@
 worker: python powerhehbot.py
+client.run(os.getenv('Token'))
